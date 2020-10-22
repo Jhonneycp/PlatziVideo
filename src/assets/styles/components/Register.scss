@@ -51,6 +51,8 @@ $blanco: white;
     height: 50px;
     letter-spacing: 1px;
     margin: 10px 0px;
+    outline: none;
+    
   }
   .register__container--input{
     background-color: transparent;
@@ -63,4 +65,5 @@ $blanco: white;
     padding: 0px 20px;
     outline: none;
     height: 50px;
+    color:white;
 }
